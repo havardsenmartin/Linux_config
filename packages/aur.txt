@@ -1,0 +1,9 @@
+catppuccin-gtk-theme-mocha
+electron40-bin
+electron40-bin-debug
+flow-pomodoro-debug
+notion-app-electron
+notion-app-electron-debug
+vesktop
+yay
+yay-debug

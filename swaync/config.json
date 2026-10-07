@@ -1,0 +1,6 @@
+{
+  "timeout": 5000,
+  "timeout-low": 3000,
+  "timeout-critical": 0,
+  "history": true
+}

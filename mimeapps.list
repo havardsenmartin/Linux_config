@@ -1,0 +1,12 @@
+[Default Applications]
+inode/directory=thunar.desktop
+image/jpeg=nsxiv.desktop
+x-scheme-handler/discord=vesktop.desktop
+application/pdf=org.pwmt.zathura.desktop
+application/x-zerosize=org.pwmt.zathura-pdf-poppler.desktop
+
+[Added Associations]
+image/jpeg=nsxiv.desktop;
+image/png=nsxiv.desktop;
+application/pdf=firefox.desktop;org.pwmt.zathura-pdf-poppler.desktop;
+application/x-zerosize=org.pwmt.zathura-pdf-poppler.desktop;

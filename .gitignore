@@ -1,0 +1,32 @@
+# Firefox profiles and runtime data
+mozilla/firefox/
+
+# discord thingy
+vesktop/
+discord/
+
+# fucking notion
+Notion/
+
+# Spotify application state
+spotify/
+
+# Application caches
+**/cache/
+**/Cache/
+**/.cache/
+
+# Logs
+*.log
+
+# Runtime/state files
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.bin
+*.bak
+*.baklz4
+*.jsonlz4
+
+# Neovim is its own git repository
+nvim/
